@@ -16,10 +16,10 @@ Antes de começar, certifique-se de ter o seguinte:
 Codigo utilizado para a atividade ('O Post está funcionando devidamente!' deve ser substituido pela mensagem que deseja ser postada): <br>
 ![image](https://github.com/EricTach/AtividadesSI/assets/99208930/632849d2-e20e-4242-b719-1a76111b1569)
 
-Resultado de quando a autenticação é feita corretamente:
+Teste de resultado de quando a autenticação é feita corretamente:
 ![image](https://github.com/EricTach/AtividadesSI/assets/99208930/50d23372-6436-4ee2-96fe-bb6cc2b5356e)
 
-Resultado quando a autenticação é feita de maneira incorreta:
+Teste de resultado quando a autenticação é feita de maneira incorreta:
 ![image](https://github.com/EricTach/AtividadesSI/assets/99208930/f38b2048-e913-4b31-89a6-9de62de630b1)
 
 ## Endpoint
